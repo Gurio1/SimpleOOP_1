@@ -1,0 +1,7 @@
+D:\Andrey-PC\Desktop\efwf\KursovaPPTRY3\KursovaPPTRY3\bin\Debug\KursovaPPTRY3.exe.config
+D:\Andrey-PC\Desktop\efwf\KursovaPPTRY3\KursovaPPTRY3\bin\Debug\KursovaPPTRY3.exe
+D:\Andrey-PC\Desktop\efwf\KursovaPPTRY3\KursovaPPTRY3\bin\Debug\KursovaPPTRY3.pdb
+D:\Andrey-PC\Desktop\efwf\KursovaPPTRY3\KursovaPPTRY3\obj\Debug\KursovaPPTRY3.csproj.AssemblyReference.cache
+D:\Andrey-PC\Desktop\efwf\KursovaPPTRY3\KursovaPPTRY3\obj\Debug\KursovaPPTRY3.csproj.CoreCompileInputs.cache
+D:\Andrey-PC\Desktop\efwf\KursovaPPTRY3\KursovaPPTRY3\obj\Debug\KursovaPPTRY3.exe
+D:\Andrey-PC\Desktop\efwf\KursovaPPTRY3\KursovaPPTRY3\obj\Debug\KursovaPPTRY3.pdb
